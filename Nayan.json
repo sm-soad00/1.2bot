@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "SOAD-BOT🌐",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "react": "☠️",
   "OPERATOR": [
     "",
